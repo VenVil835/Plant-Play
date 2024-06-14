@@ -1,3 +1,3 @@
 # Plant-Play
-A Virtual Game about Augmented Reality Plants
+A Website about a Virtual Prototype Game that is Augmented Reality Plants
 Website: https://venvilots.wixsite.com/plantplay
